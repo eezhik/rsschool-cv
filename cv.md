@@ -1,5 +1,5 @@
 # ANNA TSVETKOVA
-![My profile picture](/images/picture.jpg)
+![My profile picture](/images/main_photo.jpg)
 
 ## Contacts:
 - **Email:** anya.ezhik@gmail.com
