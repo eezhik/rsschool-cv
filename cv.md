@@ -1,4 +1,4 @@
-<img src="/images/main_photo.jpg" alt="My profile picture" align="right" style="width:160px; margin-left:20px;">
+<img src="/images/main_photo.jpg" alt="My profile picture" align="right" style="width:160px; margin-left:20px; z-index:1; position:relative;">
 # ANNA TSVETKOVA
 
 ## Contacts:
