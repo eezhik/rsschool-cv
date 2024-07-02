@@ -1,5 +1,5 @@
 # ANNA TSVETKOVA
-![My profile picture](/images/main_photo.jpg)
+<img src="/images/main_photo.jpg" alt="My profile picture" align="right" style="width:160px; margin-left:20px;">
 
 ## Contacts:
 - **Email:** anya.ezhik@gmail.com
